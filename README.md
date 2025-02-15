@@ -24,6 +24,10 @@ O simulador oferece três **perfis de investidor** para que o usuário escolha, 
 
 O objetivo principal deste projeto é o **desenvolvimento pessoal**. Através da programação e manipulação de dados financeiros, estou aprimorando minhas habilidades enquanto me divirto com a ideia de criar algo útil e interativo.
 
+## 🔧 Tecnologia(s) Utilizada(s)
+
+- **Python** → Linguagem principal do projeto.
+
 ### Fins do Projeto 🔧
 
 Este projeto foi desenvolvido **sem fins lucrativos** e serve unicamente para **desenvolvimento acadêmico e prático**. Ele foi idealizado para atender aos requisitos de uma atividade didática, com o intuito de aprofundar meu entendimento sobre lógica de programação e cálculos financeiros.
